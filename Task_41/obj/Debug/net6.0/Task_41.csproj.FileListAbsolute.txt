@@ -1,0 +1,15 @@
+C:\Users\user3127\Desktop\Gb\Знакомство с языками программирования\Семинар 10\Task_41\bin\Debug\net6.0\Task_41.exe
+C:\Users\user3127\Desktop\Gb\Знакомство с языками программирования\Семинар 10\Task_41\bin\Debug\net6.0\Task_41.deps.json
+C:\Users\user3127\Desktop\Gb\Знакомство с языками программирования\Семинар 10\Task_41\bin\Debug\net6.0\Task_41.runtimeconfig.json
+C:\Users\user3127\Desktop\Gb\Знакомство с языками программирования\Семинар 10\Task_41\bin\Debug\net6.0\Task_41.dll
+C:\Users\user3127\Desktop\Gb\Знакомство с языками программирования\Семинар 10\Task_41\bin\Debug\net6.0\Task_41.pdb
+C:\Users\user3127\Desktop\Gb\Знакомство с языками программирования\Семинар 10\Task_41\obj\Debug\net6.0\Task_41.csproj.AssemblyReference.cache
+C:\Users\user3127\Desktop\Gb\Знакомство с языками программирования\Семинар 10\Task_41\obj\Debug\net6.0\Task_41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user3127\Desktop\Gb\Знакомство с языками программирования\Семинар 10\Task_41\obj\Debug\net6.0\Task_41.AssemblyInfoInputs.cache
+C:\Users\user3127\Desktop\Gb\Знакомство с языками программирования\Семинар 10\Task_41\obj\Debug\net6.0\Task_41.AssemblyInfo.cs
+C:\Users\user3127\Desktop\Gb\Знакомство с языками программирования\Семинар 10\Task_41\obj\Debug\net6.0\Task_41.csproj.CoreCompileInputs.cache
+C:\Users\user3127\Desktop\Gb\Знакомство с языками программирования\Семинар 10\Task_41\obj\Debug\net6.0\Task_41.dll
+C:\Users\user3127\Desktop\Gb\Знакомство с языками программирования\Семинар 10\Task_41\obj\Debug\net6.0\refint\Task_41.dll
+C:\Users\user3127\Desktop\Gb\Знакомство с языками программирования\Семинар 10\Task_41\obj\Debug\net6.0\Task_41.pdb
+C:\Users\user3127\Desktop\Gb\Знакомство с языками программирования\Семинар 10\Task_41\obj\Debug\net6.0\Task_41.genruntimeconfig.cache
+C:\Users\user3127\Desktop\Gb\Знакомство с языками программирования\Семинар 10\Task_41\obj\Debug\net6.0\ref\Task_41.dll
